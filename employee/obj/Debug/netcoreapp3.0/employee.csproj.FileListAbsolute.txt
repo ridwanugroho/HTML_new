@@ -1,0 +1,13 @@
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\employee\obj\Debug\netcoreapp3.0\employee.csprojAssemblyReference.cache
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\employee\obj\Debug\netcoreapp3.0\employee.AssemblyInfoInputs.cache
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\employee\obj\Debug\netcoreapp3.0\employee.AssemblyInfo.cs
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\employee\bin\Debug\netcoreapp3.0\employee.exe
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\employee\bin\Debug\netcoreapp3.0\employee.deps.json
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\employee\bin\Debug\netcoreapp3.0\employee.runtimeconfig.json
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\employee\bin\Debug\netcoreapp3.0\employee.runtimeconfig.dev.json
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\employee\bin\Debug\netcoreapp3.0\employee.dll
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\employee\bin\Debug\netcoreapp3.0\employee.pdb
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\employee\obj\Debug\netcoreapp3.0\employee.dll
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\employee\obj\Debug\netcoreapp3.0\employee.pdb
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\employee\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\employee\obj\Debug\netcoreapp3.0\employee.csproj.CopyComplete

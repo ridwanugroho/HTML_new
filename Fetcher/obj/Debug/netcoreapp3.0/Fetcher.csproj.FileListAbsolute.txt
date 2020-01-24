@@ -1,0 +1,13 @@
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\Fetcher\obj\Debug\netcoreapp3.0\Fetcher.csprojAssemblyReference.cache
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\Fetcher\obj\Debug\netcoreapp3.0\Fetcher.AssemblyInfoInputs.cache
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\Fetcher\obj\Debug\netcoreapp3.0\Fetcher.AssemblyInfo.cs
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\Fetcher\bin\Debug\netcoreapp3.0\Fetcher.exe
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\Fetcher\bin\Debug\netcoreapp3.0\Fetcher.deps.json
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\Fetcher\bin\Debug\netcoreapp3.0\Fetcher.runtimeconfig.json
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\Fetcher\bin\Debug\netcoreapp3.0\Fetcher.runtimeconfig.dev.json
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\Fetcher\bin\Debug\netcoreapp3.0\Fetcher.dll
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\Fetcher\bin\Debug\netcoreapp3.0\Fetcher.pdb
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\Fetcher\obj\Debug\netcoreapp3.0\Fetcher.dll
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\Fetcher\obj\Debug\netcoreapp3.0\Fetcher.pdb
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\Fetcher\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\Fetcher\obj\Debug\netcoreapp3.0\Fetcher.csproj.CopyComplete

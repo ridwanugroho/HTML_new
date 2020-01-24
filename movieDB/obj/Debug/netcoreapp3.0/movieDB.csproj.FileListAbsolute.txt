@@ -1,0 +1,13 @@
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\movieDB\obj\Debug\netcoreapp3.0\movieDB.csprojAssemblyReference.cache
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\movieDB\obj\Debug\netcoreapp3.0\movieDB.AssemblyInfoInputs.cache
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\movieDB\obj\Debug\netcoreapp3.0\movieDB.AssemblyInfo.cs
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\movieDB\bin\Debug\netcoreapp3.0\movieDB.exe
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\movieDB\bin\Debug\netcoreapp3.0\movieDB.deps.json
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\movieDB\bin\Debug\netcoreapp3.0\movieDB.runtimeconfig.json
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\movieDB\bin\Debug\netcoreapp3.0\movieDB.runtimeconfig.dev.json
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\movieDB\bin\Debug\netcoreapp3.0\movieDB.dll
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\movieDB\bin\Debug\netcoreapp3.0\movieDB.pdb
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\movieDB\obj\Debug\netcoreapp3.0\movieDB.dll
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\movieDB\obj\Debug\netcoreapp3.0\movieDB.pdb
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\movieDB\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\movieDB\obj\Debug\netcoreapp3.0\movieDB.csproj.CopyComplete

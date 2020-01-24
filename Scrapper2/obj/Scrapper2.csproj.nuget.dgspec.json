@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Prog\\CSharp\\training\\11_rabu_22_jan_20\\soalRequest\\Scrapper2\\Scrapper2.csproj": {}
+  },
+  "projects": {
+    "D:\\Prog\\CSharp\\training\\11_rabu_22_jan_20\\soalRequest\\Scrapper2\\Scrapper2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Prog\\CSharp\\training\\11_rabu_22_jan_20\\soalRequest\\Scrapper2\\Scrapper2.csproj",
+        "projectName": "Scrapper2",
+        "projectPath": "D:\\Prog\\CSharp\\training\\11_rabu_22_jan_20\\soalRequest\\Scrapper2\\Scrapper2.csproj",
+        "packagesPath": "D:\\Users\\bsi50131\\.nuget\\packages\\",
+        "outputPath": "D:\\Prog\\CSharp\\training\\11_rabu_22_jan_20\\soalRequest\\Scrapper2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\Users\\bsi50131\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.17, )"
+            },
+            "PuppeteerSharp": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

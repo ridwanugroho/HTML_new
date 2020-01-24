@@ -1,0 +1,13 @@
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\CombineJson\bin\Debug\netcoreapp3.0\CombineJson.exe
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\CombineJson\bin\Debug\netcoreapp3.0\CombineJson.deps.json
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\CombineJson\bin\Debug\netcoreapp3.0\CombineJson.runtimeconfig.json
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\CombineJson\bin\Debug\netcoreapp3.0\CombineJson.runtimeconfig.dev.json
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\CombineJson\bin\Debug\netcoreapp3.0\CombineJson.dll
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\CombineJson\bin\Debug\netcoreapp3.0\CombineJson.pdb
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\CombineJson\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\CombineJson\obj\Debug\netcoreapp3.0\CombineJson.csprojAssemblyReference.cache
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\CombineJson\obj\Debug\netcoreapp3.0\CombineJson.AssemblyInfoInputs.cache
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\CombineJson\obj\Debug\netcoreapp3.0\CombineJson.AssemblyInfo.cs
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\CombineJson\obj\Debug\netcoreapp3.0\CombineJson.csproj.CopyComplete
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\CombineJson\obj\Debug\netcoreapp3.0\CombineJson.dll
+D:\Prog\CSharp\training\11_rabu_22_jan_20\soalRequest\CombineJson\obj\Debug\netcoreapp3.0\CombineJson.pdb
