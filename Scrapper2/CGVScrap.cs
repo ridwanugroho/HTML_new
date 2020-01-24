@@ -1,6 +1,6 @@
 using System;
 using System.Globalization;
-using System.Text;
+using System.Reflection;
 using System.Threading.Tasks;
 using System.Collections.Generic;
 using PuppeteerSharp;
@@ -42,39 +42,24 @@ namespace CGVScrapper
             Movie temp = new Movie();
             HtmlWeb page = new HtmlWeb();
             HtmlDocument htmlPage = page.Load(url);
-            temp.title = htmlPage.DocumentNode.SelectSingleNode("//div[@class='movie-info-title']").InnerHtml.ToString().Trim();
+            temp.title = htmlPage.DocumentNode.SelectSingleNode("//div[@class='movie-info-title']")
+                        .InnerHtml.ToString().Trim();
             
             var info = htmlPage.DocumentNode.SelectNodes("//div[@class='movie-add-info left']/ul/li");
-            foreach (var li in info)
+            PropertyInfo[] props = typeof(Movie).GetProperties();
+            foreach(var li in info)
             {
-                if(li.InnerText.Contains("sTARRING"))
-                    temp.starring = li.InnerText.Trim()
-                    .Substring(li.InnerText.IndexOf(" :")+3);
-                
-                else if(li.InnerText.Contains("DIRECTOR"))
-                    temp.director = li.InnerText.Trim()
-                    .Substring(li.InnerText.IndexOf(" :")+3);
-                
-                else if(li.InnerText.Contains("CENSOR"))
-                    temp.censor_rating = li.InnerText.Trim()
-                    .Substring(li.InnerText.IndexOf(" :")+3);
-
-                else if(li.InnerText.Contains("GENRE"))
-                    temp.genre = li.InnerText.Trim()
-                    .Substring(li.InnerText.IndexOf(" :")+3);
-
-                else if(li.InnerText.Contains("SUBTITLE"))
-                    temp.subtitle = li.InnerText.Trim()
-                    .Substring(li.InnerText.IndexOf(" :")+3);
-
-                else if(li.InnerText.Contains("DURATION"))
-                    temp.duration = li.InnerText.Trim()
-                    .Substring(li.InnerText.IndexOf(" :")+3);
+                foreach (var prop in props)
+                {
+                    if(Contain(li.InnerText, prop.Name))
+                    {
+                        prop.SetValue(temp, li.InnerText.Trim().Substring(li.InnerText.IndexOf(" :")+3));
+                    }
+                }
             }
 
             temp.trailer_link = htmlPage.DocumentNode.SelectSingleNode("//div[@class='trailer-btn-wrapper']/img")
                                 .GetAttributeValue("onclick", string.Empty).Split("'")[1];
-
             temp.synopsis = htmlPage.DocumentNode.SelectSingleNode("//div[@class='movie-synopsis right']").InnerText.Trim();
             
             
@@ -82,10 +67,10 @@ namespace CGVScrapper
 
         }
 
-        public bool Contains(this string source, string value, CompareOptions options, CultureInfo culture)
+        public static bool Contain(string source, string value)
         {
             var clt = new CultureInfo("en-US");
-            return culture.CompareInfo.IndexOf(source, value, options) >= 0;
+            return clt.CompareInfo.IndexOf(source, value, CompareOptions.IgnoreCase) >= 0;
         }
     }
 
